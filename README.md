@@ -1,4 +1,4 @@
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/sotu)](https://cran.r-project.org/package=sotu) ![Downloads](http://cranlogs.r-pkg.org/badges/sotu) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/statsmaths/sotu?branch=master&svg=true)](https://ci.appveyor.com/project/statsmaths/sotu) [![Coverage Status](https://img.shields.io/codecov/c/github/NA/NA/master.svg)](https://codecov.io/github/statsmaths/sotu?branch=master) [![Travis-CI Build Status](https://travis-ci.org/statsmaths/sotu.svg?branch=master)](https://travis-ci.org/statsmaths/sotu)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/sotu)](https://cran.r-project.org/package=sotu) ![Downloads](http://cranlogs.r-pkg.org/badges/sotu) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/statsmaths/sotu?branch=master&svg=true)](https://ci.appveyor.com/project/statsmaths/sotu) [![Travis-CI Build Status](https://travis-ci.org/statsmaths/sotu.svg?branch=master)](https://travis-ci.org/statsmaths/sotu)
 
 
 ## Installation

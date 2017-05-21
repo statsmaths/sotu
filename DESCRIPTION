@@ -15,4 +15,4 @@ URL: http://github.com/statsmaths/sotu/issues
 BugReports: http://github.com/statsmaths/sotu/issues
 LazyData: true
 RoxygenNote: 6.0.1
-Suggests: covr
+

@@ -17,7 +17,7 @@ of being used for meaningful examples of text analysis
 in R. This corpus is well-suited to the task as a it
 historically important, includes both material intended
 to be read and material intended to be spoken, and it
-fails in the public domain. As the corpus spans over
+falls in the public domain. As the corpus spans over
 two centuries it is also a good test of how well various
 methods hold up to the idiosyncrasies of historical texts.
 }

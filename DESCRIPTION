@@ -1,11 +1,11 @@
 Package: sotu
 Type: Package
 Title: State of the Union Addresses
-Version: 1.0
+Version: 1.0.1
 Authors@R: c(person(given = "Taylor B.", family = "Arnold", email = "taylor.arnold@acm.org", role = c("aut", "cre")))
 Author: Taylor B. Arnold [aut, cre]
 Maintainer: Taylor B. Arnold <taylor.arnold@acm.org>
-Description: Full raw text of every State of the Union Address. Associated metadata such as the date, president, party, and format are also included.
+Description: Full raw text of every State of the Union Address. Associated data about each address, such as the date, president, party, and format, are also included.
 Depends:
     R (>= 2.10)
 Imports:

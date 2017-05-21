@@ -40,7 +40,7 @@ functions that read files from disk rather than from memory.
 
 For a more detailed example of how this package can be used,
 see the vignette for the package cleanNLP:
-[Exploring the State of the Union Addresses](https://cran.rstudio.com/web/packages/cleanNLP/vignettes/case_study.html).
+[Exploring the State of the Union Addresses](https://cran.r-project.org/web/packages/cleanNLP/).
 
 ## Note
 

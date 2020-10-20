@@ -1,7 +1,7 @@
 Package: sotu
 Type: Package
 Title: United States Presidential State of the Union Addresses
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(person(given = "Taylor B.", family = "Arnold", email = "taylor.arnold@acm.org", role = c("aut", "cre")))
 Author: Taylor B. Arnold [aut, cre]
 Maintainer: Taylor B. Arnold <taylor.arnold@acm.org>
@@ -18,12 +18,11 @@ Description: The President of the United States is constitutionally obligated to
   to the idiosyncrasies of historical texts. Associated data about each address, such
   as the year, president, party, and format, are also included.
 Depends:
-    R (>= 2.10)
+    R (>= 3.5.0) 
 Imports:
     utils
 License: GPL-2
-URL: http://github.com/statsmaths/sotu/
-BugReports: http://github.com/statsmaths/sotu/issues
+URL: https://github.com/statsmaths/sotu/
+BugReports: https://github.com/statsmaths/sotu/issues/
 LazyData: true
-RoxygenNote: 6.0.1
-
+RoxygenNote: 7.1.1

@@ -35,8 +35,8 @@ State of the Union.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{http://github.com/statsmaths/sotu/issues}
-  \item Report bugs at \url{http://github.com/statsmaths/sotu/issues}
+  \item \url{https://github.com/statsmaths/sotu/}
+  \item Report bugs at \url{https://github.com/statsmaths/sotu/issues/}
 }
 
 }

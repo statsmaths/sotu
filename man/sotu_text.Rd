@@ -10,6 +10,6 @@ element. These line up with the rows of the data in
 \code{\link{sotu_meta}}.
 }
 \references{
-\url{http://www.presidency.ucsb.edu/sou.php}
+The American Presidency Project, UCSB
 }
 \keyword{data}

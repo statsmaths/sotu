@@ -6,7 +6,7 @@
 #'
 #' @name sotu_meta
 #' @docType data
-#' @references \url{http://www.presidency.ucsb.edu/sou.php}
+#' @references The American Presidency Project, UCSB
 #' @keywords data
 NULL
 
@@ -18,6 +18,6 @@ NULL
 #'
 #' @name sotu_text
 #' @docType data
-#' @references \url{http://www.presidency.ucsb.edu/sou.php}
+#' @references The American Presidency Project, UCSB
 #' @keywords data
 NULL

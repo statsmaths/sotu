@@ -27,4 +27,3 @@
 #'
 #' @docType package
 "_PACKAGE"
-

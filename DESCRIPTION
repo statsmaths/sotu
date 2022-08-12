@@ -1,10 +1,10 @@
 Package: sotu
 Type: Package
 Title: United States Presidential State of the Union Addresses
-Version: 1.0.3
-Authors@R: c(person(given = "Taylor B.", family = "Arnold", email = "taylor.arnold@acm.org", role = c("aut", "cre")))
+Version: 1.0.4
+Authors@R: c(person(given = "Taylor B.", family = "Arnold", email = "tarnold2@richmond.edu", role = c("aut", "cre")))
 Author: Taylor B. Arnold [aut, cre]
-Maintainer: Taylor B. Arnold <taylor.arnold@acm.org>
+Maintainer: Taylor B. Arnold <tarnold2@richmond.edu>
 Description: The President of the United States is constitutionally obligated to provide
   a report known as the 'State of the Union'. The report summarizes the current challenges
   facing the country and the president's upcoming legislative agenda. While historically
@@ -25,4 +25,4 @@ License: GPL-2
 URL: https://github.com/statsmaths/sotu/
 BugReports: https://github.com/statsmaths/sotu/issues/
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1

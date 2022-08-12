@@ -10,6 +10,6 @@ Address. These line up with the elements in
 \code{\link{sotu_text}}.
 }
 \references{
-\url{http://www.presidency.ucsb.edu/sou.php}
+The American Presidency Project, UCSB
 }
 \keyword{data}
